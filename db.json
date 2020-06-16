@@ -1,0 +1,103 @@
+{
+  "customer": {
+    "balance": {
+      "current": 1029.15,
+      "totalAmount": 0,
+      "totalBalance": 1029.15
+    },
+    "locations": [
+      {
+        "name": "OKLAHOMA CITY  OK MILLWORK",
+        "code": "OKCTOKMW",
+        "phone": "405-348-6810",
+        "addressLine1": "BUILDERS FIRSTSOURCE",
+        "addressLine2": "12500 N SANTA FE",
+        "city": "OKLAHOMA CITY",
+        "state": "OK",
+        "zip": "73114"
+      },
+      {
+        "name": "OKLAHOMA CITY  OK NORTH YARD",
+        "code": "OKCNOKYD",
+        "phone": "405-348-6810",
+        "addressLine1": "BUILDERS FIRSTSOURCE",
+        "addressLine2": "12500 N SANTA FE AVENUE",
+        "city": "OKLAHOMA CITY",
+        "state": "OK",
+        "zip": "73114"
+      },
+      {
+        "name": "OKLAHOMA CITY  OK SOUTH YARD",
+        "code": "OKCSOKYD",
+        "phone": "405-321-2255",
+        "addressLine1": "BUILDERS FIRSTSOURCE",
+        "addressLine2": "7401 S SOONER RD",
+        "city": "OKLAHOMA CITY",
+        "state": "OK",
+        "zip": "73135"
+      },
+      {
+        "name": "OKLAHOMA CITY  OK WINDOWS",
+        "code": "OKCTOKWN",
+        "phone": "405-525-0422",
+        "addressLine1": "BUILDERS FIRSTSOURCE",
+        "addressLine2": "121 E HILL STREET",
+        "city": "OKLAHOMA CITY",
+        "state": "OK",
+        "zip": "73105"
+      }
+    ],
+    "salesPeople": [
+      {
+        "name": "MATTHEW HARTMAN",
+        "email": "matt.hartman@bldr.com",
+        "contactType": "primary"
+      },
+      {
+        "name": "REBATE-DISCOUNT COMMISSION ADJ",
+        "contactType": "secondary"
+      }
+    ],
+    "authorizedSigners": [],
+    "deliveries": [
+      {
+        "id": "46603809",
+        "salesOrderId": "48141242",
+        "jobName": "N/A",
+        "category": "LUMBER",
+        "deliveryDate": "2020-06-11T00:00:00",
+        "status": "delivered",
+        "addressLine1": "6606 NW 35TH ST",
+        "addressLine2": "N/A",
+        "city": "OKLAHOMA CITY",
+        "state": "OK",
+        "zip": "73008",
+        "hasImages": false,
+        "lineItems": []
+      },
+      {
+        "id": "46598274",
+        "salesOrderId": "48135392",
+        "jobName": "ORCHARD",
+        "category": "SIDING",
+        "deliveryDate": "2020-06-11T00:00:00",
+        "status": "delivered",
+        "addressLine1": "6813 OLD ORCHARD LN",
+        "addressLine2": "ORCHARD",
+        "city": "OKLAHOMA CITY",
+        "state": "OK",
+        "zip": "73132",
+        "hasImages": false,
+        "lineItems": []
+      }
+    ],
+    "pendingPayment": {
+      "paymentId": 1023,
+      "uid": "2948cd2c-7d1e-4616-b0eb-865d05806b76",
+      "amount": 77
+    },
+    "customerName": "DOUG POFF",
+    "customerNumber": "476681",
+    "customerId": 3
+  }
+}
